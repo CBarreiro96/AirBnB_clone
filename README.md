@@ -1,12 +1,12 @@
-# :notebook_with_decorative_cover: AirBnB clone - The console :sunrise:
+# :notebook_with_decorative_cover: AirBnB clone :sunrise:
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66263776/97637714-299b3f00-1a09-11eb-824d-23b81263f96c.png" width="500" height= "200">
 </p>
 
 **AirBnB** is a website that you can find option about places that you can travel. In this project we are going to deploy a simple copy of the [AirBnB website](https://www.airbnb.com.co/?_set_bev_on_new_domain=1603810323_whaprsZfQ18Pr9Cb "Website").That Divided diferent step like:
-* The Console
-* Web Static
+* [The Console](#id1)
+* [Web Static](#id2)
 * MySQL storage
 * Web Framework - templating
 * RESTful API
@@ -19,7 +19,7 @@
 However in this repository we are going to show the first part of this project  that is **The console**
 
 ## :gem: Description of the project :gem: 
-### The console
+### :diamond_shape_with_a_dot_inside: The console<a name="id1"></a>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66263776/97640151-28204580-1a0e-11eb-9e21-888830a67f3e.png" width="400" height= "200">
 </p>
@@ -185,6 +185,10 @@ user@ubuntu:~/AirBnB$ echo "update BaseModel 49faff9a-6318-451f-87b6-910505c5590
 (hbnb) 
 user@ubuntu:~/AirBnB$
 ```
+### :diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside: Web Static<a name="id2"></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66263776/98997628-c6c69f00-2502-11eb-94df-652bf4517c61.png" width="400" height= "200">
+</p>
 
 ## Build with
 ```
