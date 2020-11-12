@@ -4,33 +4,48 @@
   <img src="https://user-images.githubusercontent.com/66263776/97637714-299b3f00-1a09-11eb-824d-23b81263f96c.png" width="500" height= "200">
 </p>
 
-**AirBnB** is a website that you can find option about places that you can travel. In this project we are going to deploy a simple copy of the [AirBnB website](https://www.airbnb.com.co/?_set_bev_on_new_domain=1603810323_whaprsZfQ18Pr9Cb "Website").That Divided diferent step like:
+**AirBnB** is a website that you can find option about places that you can travel. In this project we are going to deploy a simple copy of the [AirBnB website](https://www.airbnb.com.co/?_set_bev_on_new_domain=1603810323_whaprsZfQ18Pr9Cb "Website").
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66263776/98057530-81261a00-1e10-11eb-9197-a5eb38a64be5.png" width="400" height= "200">
+</p>
+
+## Indice
+
 * [The Console](#id1)
+    * [Description of the project](#id1-1)
+       * [Interactive mode](#id1-2)
+	  * [Non-Interactive mode](#id1-3)
+    * [Command](#id1-4)
+    * [Description of the command interpreter](#id1-5)
+      * [Install de program](#id1-6)
+	  * [Use of console](#id1-7)
+	    * [Interactive mode](#id1-8)
+		* [Non-Interactive mode](#id1-9)
 * [Web Static](#id2)
 * MySQL storage
 * Web Framework - templating
 * RESTful API
 * Web dynamic
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/66263776/98057530-81261a00-1e10-11eb-9197-a5eb38a64be5.png" width="400" height= "200">
-</p>
+
 
 However in this repository we are going to show the first part of this project  that is **The console**
 
-## :gem: Description of the project :gem: 
-### :diamond_shape_with_a_dot_inside: The console<a name="id1"></a>
+
+## :diamond_shape_with_a_dot_inside: The console<a name="id1"></a>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66263776/97640151-28204580-1a0e-11eb-9e21-888830a67f3e.png" width="400" height= "200">
 </p>
 
+### :gem: Description of the project<a name="id1-1"></a> :gem: 
 This first part **the console** about **AirBnB** is a command interpreter similar to a Linux shell but this console his functions are:
 1) **Create** neww object(ex: new city, new user erc..)
 2) **Show** an object
 3) **Update** atributes of an object
 4) **Deestroy** an object  
 
-#### Interactive mode
+#### Interactive mode<a name="id1-2"></a>
 In this **Interactive** mode the console will display a prompt (hbnb), what it indicate is that user can write and execute a command. You need to run the the file ***./console.py***. and if you like exit of this place you need to write ***quit*** in the prompt.
 ```
 $ ./console.py
@@ -85,7 +100,8 @@ $
 
 ### Getting Started
 
-#### Installing
+#### Installing<a name="id1-6"></a>
+
 You will need to clone the repository of the project from Github. This will contain the simple shell program and all of its dependencies.
 >user@ubuntu$ git clone https://github.com/CBarreiro96/AirBnB_clone
 
