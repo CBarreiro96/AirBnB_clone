@@ -1,4 +1,4 @@
-# :notebook_with_decorative_cover: AirBnB clone :sunrise:
+# :notebook_with_decorative_cover: AirBnB clone :sunrise: 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66263776/97637714-299b3f00-1a09-11eb-824d-23b81263f96c.png" width="500" height= "200">
@@ -11,7 +11,7 @@
 
 ## Indice
 
-* [The Console](#id1)
+* [The Console](#id1) </p>
     * [Description](#id1-1)
        * [Interactive mode](#id1-2)
 	  * [Non-Interactive mode](#id1-3)
@@ -23,7 +23,8 @@
 		* [Non-Interactive mode](#id1-9)
 * [Web Static](#id2)
 	* [Descrioption]()
-    * [Comands]() 
+    * [Comands]()
+	* [File Description]()
 * MySQL storage
 * Web Framework - templating
 * RESTful API
@@ -207,6 +208,19 @@ user@ubuntu:~/AirBnB$
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66263776/98997628-c6c69f00-2502-11eb-94df-652bf4517c61.png" width="400" height= "200">
 </p>
+
+####  File description.
+| File | Description |
+| :---: | :---: |
+| [web_static/0-index.html](https://github.com/CBarreiro96/AirBnB_clone/blob/main/models/base_model.py "base_models") | Class that defines all common attributes/methods for other classes. |
+|[web_static/1-index.html](https://github.com/CBarreiro96/AirBnB_clone/blob/main/models/__init__.py "Init") | In this file you can find code about convert to integer to binary |
+|[web_static/2-index.html](https://github.com/CBarreiro96/AirBnB_clone/blob/main/models/engine/file_storage.py "File_storage") | Class that serializes instances to a JSON file and deserializes JSON file to instances |
+| [web_static/3-index.html](https://github.com/CBarreiro96/AirBnB_clone/blob/main/models/amenity.py "File amenity") | Amenity class inheriting from BaseModel |
+| [web_static/0-index.html](https://github.com/CBarreiro96/AirBnB_clone/blob/main/models/city.py "File city") | City class inheriting from BaseModel |
+| [models/place.py](https://github.com/CBarreiro96/AirBnB_clone/blob/main/models/place.py "File place") | Place class inheriting from BaseModel |
+| [models/review.py](https://github.com/CBarreiro96/AirBnB_clone/blob/main/models/review.py "File review") | Review class inheriting from BaseModel |
+| [models/user.py](https://github.com/CBarreiro96/AirBnB_clone/blob/main/models/user.py "File user") | User inheriting from BaseModel |
+| [tests](https://github.com/CBarreiro96/AirBnB_clone/blob/main/models/user.py "File user") | This is a directory that you can find all tests did in this proyect |
 
 ## Build with
 ```
