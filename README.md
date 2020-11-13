@@ -12,7 +12,7 @@
 ## Indice
 
 * [The Console](#id1)
-    * [Description of the project](#id1-1)
+    * [Description](#id1-1)
        * [Interactive mode](#id1-2)
 	  * [Non-Interactive mode](#id1-3)
     * [Command](#id1-4)
@@ -22,6 +22,8 @@
 	    * [Interactive mode](#id1-8)
 		* [Non-Interactive mode](#id1-9)
 * [Web Static](#id2)
+	* [Descrioption]()
+    * [Comands]() 
 * MySQL storage
 * Web Framework - templating
 * RESTful API
